@@ -27,8 +27,8 @@ var rootDir = './uploads';
 var MIN_TILE_SIZE = 200;
 
 // PUT YOUR WATSON KEY AND CLASSIFIER ID HERE:
-var WATSON_KEY = "";
-var WATSON_CLASSIFIER = "";
+var WATSON_KEY = "751374310b595ac81e24fc1ebfbdcb5a3bc6dca2";
+var WATSON_CLASSIFIER = "Credentials-1";
 
 
 var visual_recognition = new VisualRecognitionV3({
